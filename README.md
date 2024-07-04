@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-   I am working on a few GIS projects utilizing RStudio and Arcgis, I hope to continue to work on geological/environmental surveying work utilizing statistical methods and 3-Dimensional mapping methods.
+   I am working on a few GIS projects utilizing RStudio and ArcGIS, I hope to continue to work on geological/environmental surveying work utilizing statistical methods and three-dimensional mapping methods.
 </p>
 <p align="center">
-   I'm attending the University of Toronto and I'm in my third year
+   I'm attending the University of Toronto and I'm currently in my fourth year
 </p>
 
 
