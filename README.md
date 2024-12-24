@@ -3,7 +3,7 @@
 <h3 align="center">I am a university student studying GIS and Environmental Science</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/44/9e/05/449e058844d89d45822a44c9f5f60fe2.gif" />
+  <img src="https://i.pinimg.com/originals/44/9e/05/449e058844d89d45822a44c9f5f60fe2.gif" width="600" height="300"/>
 </p>
 
 <p align="center">
