@@ -7,10 +7,14 @@
 </p>
 
 <p align="center">
-   I am working on a few GIS projects utilizing RStudio and ArcGIS, I hope to continue to work on geological/environmental surveying work utilizing statistical methods and three-dimensional mapping methods.
+   🌐 Here's my website/portfolo: https://mikaelsyed.com/
+</p>
+
+<p align="center">
+   🎴 I am working on a few GIS projects utilizing RStudio and ArcGIS, I hope to continue to work on geological/environmental surveying work utilizing statistical methods and three-dimensional mapping methods.
 </p>
 <p align="center">
-   I'm attending the University of Toronto and I'm currently in my fourth year
+   🀄️ I'm attending the University of Toronto and I'm currently in my fourth year
 </p>
 
 
