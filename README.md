@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-   🌐 Here's my website/portfolo: https://mikaelsyed.com/
+   🌐 Here's my website/portfolo (work in progress): https://mikaelsyed.com/
 </p>
 
 <p align="center">
